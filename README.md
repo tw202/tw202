@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tw202
-- 👀 I’m interested in Machine Learning and Java and still learning!
+- 👀 Hii
 - 🌱 I’m currently learning Data Science
 
 <!---
